@@ -19,7 +19,7 @@ All configuration data is stored locally using the Chrome Storage API.
 
 Privacy policy:
 
-https://YOURUSERNAME.github.io/temporary-download-cleaner/privacy/
+https://ezghost1.github.io/temporary-download-cleaner/privacy/
 
 ## Permissions
 
